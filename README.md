@@ -4,6 +4,7 @@
 최근에는 **게임 개발**에 관심이 들기 시작했어요!
   
 현재는 학생들로만 이루어진 그룹, [MSUB](https://msub.kr)에서 지내면서 공부하고 있어요 📚
+###### 가끔 비어있는 레파지스토리가 있는데 그건 아직 개발중이거나 비공개에요!
 
 # 🤔 What I'm interested in...
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkym0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
