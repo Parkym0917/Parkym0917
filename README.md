@@ -12,3 +12,6 @@ Recently, I've been interested in **developing games**!
 <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="JAVA" src="https://img.shields.io/badge/Java-00758f?style=flat-square&logo=java&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+
+### Etc.
+ [Previous account](https://github.com/NoBrain0917) (a lot of small things)
