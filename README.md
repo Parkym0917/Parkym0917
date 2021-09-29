@@ -1,9 +1,9 @@
 # 👋 Hi there!
 [![profile](https://github-readme-stats.vercel.app/api?username=parkym0917&show_icons=true&theme=tokyonight)]()<br><br>
-I'm a high school student dreaming of becoming a full-stack developer or an Android developer.   
-Recently, I've been interested in developing games!
+I'm a high school student dreaming of becoming a **full-stack** developer or an **Android** developer.   
+Recently, I've been interested in **developing games**!
 
-# 💻 Languages
+# 🤔 What I'm interested in...
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkym0917&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="ANDROID" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
